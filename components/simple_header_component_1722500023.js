@@ -27,7 +27,8 @@ Vue.component("simple_header_component_1722500023", {
                         <li id="nav-item-1"><a href="#" class="block py-2 pl-3 pr-4 text-white hover:bg-white hover:bg-opacity-20 rounded-lg lg:hover:bg-transparent lg:border-0 lg:hover:text-pink-200 lg:p-0 transition duration-300 ease-in-out">Real-Time Transaction Analysis</a></li>
                         <li id="nav-item-2"><a href="#" class="block py-2 pl-3 pr-4 text-white hover:bg-white hover:bg-opacity-20 rounded-lg lg:hover:bg-transparent lg:border-0 lg:hover:text-pink-200 lg:p-0 transition duration-300 ease-in-out">On-Chain Data Visualization</a></li>
                         <li id="nav-item-3"><a href="#" class="block py-2 pl-3 pr-4 text-white hover:bg-white hover:bg-opacity-20 rounded-lg lg:hover:bg-transparent lg:border-0 lg:hover:text-pink-200 lg:p-0 transition duration-300 ease-in-out">Smart Contract Auditing</a></li>
-                    </ul>
+                        <li id="nav-item-3"><a href="#" class="block py-2 pl-3 pr-4 text-white hover:bg-white hover:bg-opacity-20 rounded-lg lg:hover:bg-transparent lg:border-0 lg:hover:text-pink-200 lg:p-0 transition duration-300 ease-in-out">Smart Contract Auditing</a></li>
+                        <li><button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Hello World</button></li>
                 </div>
             </div>
         </nav>
