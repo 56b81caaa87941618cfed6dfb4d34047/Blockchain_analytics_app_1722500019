@@ -18,5 +18,11 @@
         "content": "Certainly, adding a button with the label \"Hello World\".",
         "timestamp": "01082024081449",
         "message_id": "guest01082024081447"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive tutorial for beginners to understand blockchain analytics\", \"checked\": false}, {\"feature\": \"Real-time notifications for blockchain updates and anomalies\", \"checked\": true}, {\"feature\": \"Customizable dashboard to track specific blockchain metrics\", \"checked\": true}, {\"feature\": \"Dark and light mode for user interface\", \"checked\": false}, {\"feature\": \"Search functionality to explore blockchain data\", \"checked\": true}, {\"feature\": \"Export data feature for analysis reports\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 116, \"time_taken\": \"0:00:09.234404\"}",
+        "timestamp": "01082024081459",
+        "message_id": "guest01082024081447"
     }
 ]
